@@ -9,10 +9,10 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "Derp",
-            "link": "https://www.youtube.com/watch?v=W_4BklqRBIQ&sttick=0",
-            "percent": 100,
-            "hz": 60
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": 
         }
     ]
 }
