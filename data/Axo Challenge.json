@@ -8,5 +8,12 @@
     "percentToQualify": 72,
     "password": "Copyable",
     "records": [
+            {
+            "user": "Axo",
+            "link": "",
+            "percent": 100,
+            "hz": 120,
+            "mobile": "False" 
+        }
     ]
 }
