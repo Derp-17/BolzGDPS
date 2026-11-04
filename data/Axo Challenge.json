@@ -1,0 +1,18 @@
+{
+    "id": 151469253,
+    "name": "Axo Challenge",
+    "author": "Derp",
+    "creators": ["Derp"],
+    "verifier": "Derp",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 72,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Derp",
+            "link": "https://www.youtube.com/watch?v=W_4BklqRBIQ&sttick=0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
