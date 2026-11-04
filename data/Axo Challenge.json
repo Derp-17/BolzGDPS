@@ -13,7 +13,7 @@
             "link": "",
             "percent": 100,
             "hz": 120,
-            "mobile": "False" 
+            "mobile": false 
         }
     ]
 }
