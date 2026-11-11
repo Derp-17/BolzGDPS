@@ -1,1 +1,19 @@
-
+{
+    "id": 151469253,
+    "name": "Bollz Destroyah",
+    "author": "Derp",
+    "creators": ["Derp"],
+    "verifier": "Derp",
+    "verification": "https://www.youtube.com/watch?v=W_4BklqRBIQ&sttick=0",
+    "percentToQualify": 75,
+    "password": "Copyable",
+    "records": [
+            {
+            "user": "Axo",
+            "link": "",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false 
+        }
+    ]
+}
